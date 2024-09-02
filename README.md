@@ -7,7 +7,7 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 - How to reconstruct unknown quantum states
 
-| paper | publish |time |
+| paper |  |  |
 | --- | --- | --- |
 | From Architectures to Applications: A Review of Neural Quantum States ([https://iopscience.iop.org/article/10.1088/2058-9565/ad7168/pdf](https://iopscience.iop.org/article/10.1088/2058-9565/ad7168/pdf)) | Quantum Science and Technology | 2024 |
 | Impact of conditional modelling for a universal autoregressive quantum state (https://quantum-journal.org/papers/q-2024-02-08-1245/pdf/) | Quantum | 2024 |
@@ -20,17 +20,18 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 - How to classify different classes of quantum states
   
-| paper | publish |time |
+| paper |  |  |
 | --- | --- | --- |
 | SSL4Q: Semi-Supervised Learning of Quantum Data with Application to Quantum State Classification ([https://proceedings.mlr.press/v235/tang24i.html](https://proceedings.mlr.press/v235/tang24i.html)) | ICML | 2024 |
 | Learning quantum states of continuous variable systems (https://arxiv.org/pdf/2405.01431) | arxiv | 2024 |
 | Quantum similarity testing with convolutional neural networks (https://arxiv.org/pdf/2211.01668) | PRL | 2023 |
+| Optimal Universal Learning Machines for Quantum State Discrimination (https://ieeexplore.ieee.org/abstract/document/8716672) | TIT | 2019 |
 
 ## quantum many-body system
 
 - e.g. prediction of state ground energy, classification of quantum phase
 
-| paper | publish |time |
+| paper |  |  |
 | --- | --- | --- |
 | Quantum Many-Body Physics Calculations with Large Language Models (https://arxiv.org/pdf/2403.03154) | arxiv | 2024 |
 | Machine-learning certification of multipartite entanglement for noisy quantum hardware (https://arxiv.org/pdf/2408.12349) | arxiv | 2024 |
@@ -42,12 +43,32 @@ This is a list of awesome papers on the topic of how learning methods (including
 | Variational optimization of the amplitude of neural-network quantum many-body ground states (https://arxiv.org/pdf/2308.09664) | PRB | 2024 |
 | Deep learning of many-body observables and quantum information scrambling (https://quantum-journal.org/papers/q-2024-07-18-1417/pdf/) | Quantum | 2024 |
 | Unified quantum state tomography and Hamiltonian learning using transformer models: a language-translation-like approach for quantum systems (https://arxiv.org/pdf/2304.12010) | PRA | 2024 |
-
+| Active learning for quantum mechanical measurements (https://journals.aps.org/pra/pdf/10.1103/PhysRevA.109.062404) | PRA | 2024 |  
+| Shadownet for data-centric quantum system learning (https://arxiv.org/pdf/2308.11290) | arxiv | 2023 |  
+| Learning quantum systems ([https://www.nature.com/articles/s42254-022-00552-1](https://www.nature.com/articles/s42254-022-00552-1)) | Nature Reviews Physics | 2023 |  
+| Learning quantum properties from short-range correlations using multi-task networks (https://arxiv.org/pdf/2310.11807) | arxiv | 2023 |  
+| Multimodal deep representation learning for quantum cross platform verification (https://arxiv.org/pdf/2311.03713) | PRL | 2023 |   
+| Entanglement verification with deep semi-supervised machine learning (https://arxiv.org/pdf/2308.15391) | PRA | 2023 |  
+| Machine learning discovery of new phases in programmable quantum simulator snapshots (https://arxiv.org/pdf/2112.10789) | Physical Review Research | 2023 |  
+| Self-correcting quantum many-body control using reinforcement learning with tensor networks (https://arxiv.org/pdf/2201.11790) | Nature Machine Intelligence | 2023 |  
+| Many-body control with reinforcement learning and tensor networks ([https://www.nature.com/articles/s42256-023-00732-3](https://www.nature.com/articles/s42256-023-00732-3)) | Nature Machine Intelligence | 2023 |  
+| Transformer quantum state: A multipurpose model for quantum many-body problems (https://arxiv.org/pdf/2208.01758) | PRB | 2023 |  
+| Bridging autoregressive neural networks and tensor networks for quantum many-body simulation (https://arxiv.org/pdf/2304.01996) | NIPS | 2023 |  
+| Predicting properties of quantum systems with conditional generative models (https://arxiv.org/pdf/2211.16943) | arxiv | 2022 |  
+| Intelligent certification for quantum simulators via machine learning ([https://www.nature.com/articles/s41534-022-00649-6](https://www.nature.com/articles/s41534-022-00649-6)) | npj Quantum Information | 2022 |  
+| Provably efficient machine learning for quantum many-body problems (https://arxiv.org/pdf/2106.12627) | Science | 2022 |  
+| Hardware-efficient learning of quantum many-body states (https://arxiv.org/pdf/2212.06084) | arxiv | 2022 |  
+| Autoregressive Neural Network for Simulating Open Quantum Systems via a Probabilistic Formulation (https://link.aps.org/accepted/10.1103/PhysRevLett.128.090501) | PRL | 2022 |  
+| Deep autoregressive models for the efficient variational simulation of many-body quantum systems (https://arxiv.org/pdf/1902.04057) | PRL | 2020 |  
+| Recurrent neural network wave functions (https://arxiv.org/pdf/2002.02973) | Physical Review Research | 2020 |  
+| Finding the ground state of spin hamiltonians with reinforcement learning | Nature Machine Intelligence | 2020 | 
+| Backflow Transformations via Neural Networks for Quantum Many-Body Wave Functions (https://link.aps.org/accepted/10.1103/PhysRevLett.122.226401) | PRL | 2019 |  
+| Solving the quantum many-body problem with artificial neural networks (https://arxiv.org/pdf/1606.02318) | Science | 2017 |  
 
 
 ## quantum error correction
 
-| paper | publish |time |
+| paper |  | |
 | --- | --- | --- |
 | Benchmarking Machine Learning Models for Quantum Error Correction (https://arxiv.org/pdf/2311.11167) | arxiv | 2024 |
 | DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting (https://arxiv.org/pdf/2311.16214) | arxiv | 2024 |
@@ -61,7 +82,7 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 ## quantum error mitigation
 
-| paper | publish |time |
+| paper |   | |
 | --- | --- | --- |
 | A Machine Learning-Based Error Mitigation Approach for Reliable Software Development on IBM’s Quantum Computers (https://arxiv.org/pdf/2404.12892) | FSE | 2024 |
 | Machine Learning for Practical Quantum Error Mitigation (https://arxiv.org/pdf/2309.17368) | NIPS Workshop  / APS March Meeting 2024 | 2023 |
@@ -73,7 +94,7 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 ## quantum circuit optimization/search
 
-| paper | publish |time |
+| paper |   |  |
 | --- | --- | --- |
 | Quantum Circuit Optimization using Differentiable Programming of Tensor Network States (https://arxiv.org/pdf/2408.12583) | arxiv | 2024 |
 | QuantumSEA: In-Time Sparse Exploration for Noise Adaptive Quantum Circuits (https://arxiv.org/pdf/2401.05571) | QCE | 2023 |
@@ -90,7 +111,7 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 ## Others
 
-| paper | publish |time |
+| paper |   |  |
 | --- | --- | --- |
 | CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum Chemical Feedback (https://arxiv.org/pdf/2402.10980) | ICML | 2024 |
 | Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning (https://arxiv.org/pdf/2405.16380) | arxiv | 2024 |
@@ -106,7 +127,7 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 ### quantum Experiments design
 
-| paper | publish |time |
+| paper |   |  |
 | --- | --- | --- |
 | Meta-Designing Quantum Experiments with Language Models (https://arxiv.org/pdf/2406.02470) | arxiv | 2024 |
 | Qiskit HumanEval: An Evaluation Benchmark For Quantum Code Generative Models (https://arxiv.org/pdf/2406.14712) | arxiv | 2024 |
@@ -116,7 +137,7 @@ This is a list of awesome papers on the topic of how learning methods (including
 
 ### optimizing VQAs
 
-| paper | publish |time |
+| paper |   |  |
 | --- | --- | --- |
 | Graph Machine Learning for Variational Quantum Algorithms (https://arxiv.org/pdf/2311.17423) | DAC | 2024 |
 | Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation (https://arxiv.org/pdf/2405.08100) | arxiv | 2024 |
