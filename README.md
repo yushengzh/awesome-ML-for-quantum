@@ -17,18 +17,19 @@ This is a list of awesome papers on the topic of how learning methods (including
 | Attention-based quantum tomography (https://arxiv.org/pdf/2006.12469) | Machine Learning: Science and Technology | 2021 |
 | Classification and reconstruction of optical quantum states with deep neural networks (https://arxiv.org/pdf/2012.02185v1) | Physical Review Research | 2020 |
 | Reconstructing quantum states with generative models (https://arxiv.org/pdf/1810.10584) | Nature Machine Intelligence | 2019 |
+
 - How to classify different classes of quantum states
+  
 | paper | publish |time |
 | --- | --- | --- |
 | SSL4Q: Semi-Supervised Learning of Quantum Data with Application to Quantum State Classification ([https://proceedings.mlr.press/v235/tang24i.html](https://proceedings.mlr.press/v235/tang24i.html)) | ICML | 2024 |
 | Learning quantum states of continuous variable systems (https://arxiv.org/pdf/2405.01431) | arxiv | 2024 |
 | Quantum similarity testing with convolutional neural networks (https://arxiv.org/pdf/2211.01668) | PRL | 2023 |
 
-
-
 ## quantum many-body system
 
 - e.g. prediction of state ground energy, classification of quantum phase
+
 | paper | publish |time |
 | --- | --- | --- |
 | Quantum Many-Body Physics Calculations with Large Language Models (https://arxiv.org/pdf/2403.03154) | arxiv | 2024 |
